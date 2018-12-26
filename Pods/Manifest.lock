@@ -1,0 +1,40 @@
+PODS:
+  - AFNetworking (1.1.0)
+  - iCarousel (1.8.3)
+  - iRate (1.12.2)
+  - MBProgressHUD (1.1.0)
+  - SVProgressHUD (2.2.5)
+  - TimesSquare (1.0.1)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - AFNetworking (= 1.1.0)
+  - iCarousel
+  - iRate
+  - MBProgressHUD
+  - SVProgressHUD
+  - TimesSquare (= 1.0.1)
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - iCarousel
+    - iRate
+    - MBProgressHUD
+    - SVProgressHUD
+    - TimesSquare
+    - UPCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  AFNetworking: e6427e782b25a2289d909960df8ef41358b3277c
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  iRate: 4fc69958788624545e5d050c8ffd20884013c3f1
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TimesSquare: ffb4fc1456a8121d6bb33d92e640e47bc0e0384b
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: 4b8dc5d88c28ad659244acadf46e9adbf11a79e1
+
+COCOAPODS: 1.5.3
